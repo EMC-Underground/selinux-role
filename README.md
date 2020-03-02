@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+A role to build and install libselinux for python
 
 Requirements
 ------------
